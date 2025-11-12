@@ -84,7 +84,8 @@ endmodule
 <img width="1673" height="300" alt="Screenshot 2025-11-12 111618" src="https://github.com/user-attachments/assets/9f7489a7-77fb-4720-b98d-eef173557287" />
 
 **RTL**
-<img width="1673" height="300" alt="Screenshot 2025-11-12 111618" src="https://github.com/user-attachments/assets/8b99c061-203b-4785-8689-28616a858769" />
+<img width="329" height="360" alt="Screenshot 2025-11-12 212304" src="https://github.com/user-attachments/assets/42dfdbd4-beaa-42fd-82ec-5111c74bdb06" />
+
 
 **Result:**
 Thus the studied and truth table is verified
